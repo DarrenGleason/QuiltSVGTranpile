@@ -8,3 +8,4 @@ Which summarizes Chapter 8 of Programming Languages by Ravi Sethi.
 And uses SVG's ability to group, rotate and translate to perform turn and sew.
 The A and B primitives are defined as <img src="ExampleAB.svg"/>
 
+This is Darren, Contributing.
